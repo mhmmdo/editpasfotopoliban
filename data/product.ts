@@ -15,7 +15,7 @@ interface Product {
 }
 
 export const product: Product = {
-  name: "Edit Pas Foto",
+  name: "Edit Pas Foto Kampus Atau Formal",
   description: {
     short: "Edit Almamater, Jas Formal, dan Ganti Latar Foto",
     long: "Editpasfoto merupakan aplikasi swaedit pas foto berbasis web dengan fitur mengganti ratio ukuran foto dan menambah layer almamater kampus & jas formal",
