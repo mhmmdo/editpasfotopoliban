@@ -34,7 +34,7 @@ const Hero = (props: React.HTMLAttributes<HTMLElement>) => {
             fill="currentColor"
           ></path>
         </svg>
-        abielzulio/editpasfoto
+        mhmmdo
       </a>
     </section>
   )
