@@ -54,4 +54,9 @@ export const OUTER_OPTIONS: Outer[] = [
     value: "Poliban 2022",
     src: `${OUTER_PATH_BASE}/poliban/1.${OUTER_FILE_TYPE}`,
   },
+  {
+    id: 8,
+    value: "Poliban 2023 Perempuan",
+    src: `${OUTER_PATH_BASE}/poliban/2.${OUTER_FILE_TYPE}`,
+  },
 ]
