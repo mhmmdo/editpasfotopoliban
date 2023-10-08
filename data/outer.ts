@@ -49,4 +49,8 @@ export const OUTER_OPTIONS: Outer[] = [
     value: "UGM 2",
     src: `${OUTER_PATH_BASE}/ugm/2.${OUTER_FILE_TYPE}`,
   },
+  {
+    id: 7,
+    value: "Poliban 2023",
+    src: `${OUTER_PATH_BASE}/poliban/1.${OUTER_FILE_TYPE}`,
 ]
